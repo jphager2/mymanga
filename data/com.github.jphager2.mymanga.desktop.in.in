@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=mymanga
+Comment=Your manga library and downloader
+GenericName=
+Exec=@EXEC_NAME@ %U
+Icon=com.github.jphager2.mymanga
+Terminal=false
+Categories=Utility;GTK;Development;
+Keywords=Develop
